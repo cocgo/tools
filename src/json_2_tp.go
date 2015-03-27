@@ -5,6 +5,7 @@
 // 功能：cocostudio导出的ui文件，可以转换为TexturePacker打包的图集
 // update time: 2015-03-27 17:35:10
 // version: V3.0
+// my git home: https://github.com/cocgo
 
 package main
 

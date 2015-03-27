@@ -4,7 +4,7 @@
 // v1 生成md5
 // v2 去除.svn
 // v3 改目录 2015-03-27 17:22:04
-//
+// my git home: https://github.com/cocgo
 
 package main
 

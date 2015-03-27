@@ -3,7 +3,7 @@
 // xor Result Verification
 // email: 521401@qq.com
 // time: 2015-03-27 17:36:27
-//
+// my git home: https://github.com/cocgo
 
 package main
 

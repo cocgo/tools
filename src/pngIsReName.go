@@ -5,6 +5,7 @@
 // version: v2.0
 // 功能：检查png重名
 // function: check png is rename
+// my git home: https://github.com/cocgo
 
 package main
 
