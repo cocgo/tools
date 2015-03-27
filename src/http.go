@@ -1,4 +1,10 @@
-﻿package main
+﻿// author: zhangliangzhi
+// 功能：创建本地http服务器
+// email: 521401@qq.com
+// time: 2015-03-27 17:28:54
+//
+
+package main
 
 import (
 	"flag"
